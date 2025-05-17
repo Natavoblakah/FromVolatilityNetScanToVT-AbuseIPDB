@@ -9,4 +9,4 @@ API_KEY_AbuseIPDB = 'My_Token'
 API_KEY_VirusTotal = 'My_Token'
 ```
 
-<img src="https://github.com/user-attachments/assets/83565f31-330f-4709-86a1-0e2042f34896" width="500" height="650">
+<img src="https://github.com/user-attachments/assets/83565f31-330f-4709-86a1-0e2042f34896" width="370" height="550">
