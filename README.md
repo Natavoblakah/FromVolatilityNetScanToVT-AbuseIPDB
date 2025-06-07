@@ -1,4 +1,4 @@
-# FromVolatilityNetScanToVT-AbuseIPDB
+# tata-ip-reputation-analyzer
 
 Данная программа работает с файлом вывода плагина Volatility NetScan для дальнейшего анализа выявленныых внешних адресов из сетевого взаимодействия в открытых источниках (VirusTotal, AbuseIPDB) для анализа их потенциальной вредоносности.  
    
